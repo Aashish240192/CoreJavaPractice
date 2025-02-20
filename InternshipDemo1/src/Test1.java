@@ -7,7 +7,11 @@ public class Test1
 
         System.out.println("Hello Aashish");
 
+        System.out.println("Hi Java");
+
     }
 
 
 }
+
+
